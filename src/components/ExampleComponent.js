@@ -13,10 +13,7 @@ function ExampleComponent() {
   );
 }
 
-function TestComponent(params) {
-
-}
 
 export default ExampleComponent;
-export{TestComponent}
+
 
